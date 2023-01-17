@@ -2,17 +2,6 @@
 
 ## 部署工程模板 ™️
 
-### -------src
-### |       |----include/xxx.h
-### |       |----xxx.cpp xxx.cu
-### |
-### |------workspace
-### |       |----xxx.jpg  xxx.mp4
-### |       |----xxx.onnx xxx.engine
-### |
-### |------MakeFile
-### |
-### |------CMakeLists
+![](./workspace/tt.png)
 
-
-### 并利用Makefile/CMake 管理代码 💁
+并利用Makefile/CMake 管理代码 💁
